@@ -1,0 +1,11 @@
+username, password, full name
+jwall, wwizards, John Wall
+ithomas, bceltics, Isaiah Thomas
+rrondo, skings, Rajon Rondo
+epayton, omagic, Elfrid Payton
+kwalker, chornets, Kemba Walker
+jteague, ahawks, Jeff Teague
+dlillard, pblazers, Damien Lillard
+gdragic, mheat, Goran Dragic
+
+
